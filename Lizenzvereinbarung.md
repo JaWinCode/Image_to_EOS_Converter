@@ -1,4 +1,4 @@
-Lizenzvereinbarung für die Nutzung von Image_to_EOS_Converter
+# Lizenzvereinbarung für die Nutzung von Image_to_EOS_Converter
 
 Diese Lizenzvereinbarung ("Vereinbarung") regelt die Bedingungen für die Nutzung des Programms Image_to_EOS_Converter durch den Benutzer.
 
